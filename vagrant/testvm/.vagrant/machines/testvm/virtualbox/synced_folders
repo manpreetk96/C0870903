@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/myFolder":{"owner":"vagrant","group":"vagrant","guestpath":"/home/vagrant/myFolder","hostpath":"C:/Users/mkaur/Desktop/Git/vagrant/testvm/test-folder","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/mkaur/Desktop/Git/vagrant/testvm","disabled":false,"__vagrantfile":true}}}
